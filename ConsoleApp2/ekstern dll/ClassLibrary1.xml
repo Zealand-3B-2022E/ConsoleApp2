@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClassLibrary1</name>
+    </assembly>
+    <members>
+        <member name="M:ClassLibrary1.Class1.MyName(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="myName"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
